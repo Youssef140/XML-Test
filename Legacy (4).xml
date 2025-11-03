@@ -1,64 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <CONSOLIDATED_LIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.un.org/sc/resources/sc-sanctions.xsd" dateGenerated="2025-10-31T23:00:09.350Z">
-    <INDIVIDUALS>
-    <INDIVIDUAL>
-      <DATAID>111919</DATAID>
-      <VERSIONNUM>1</VERSIONNUM>
-      <FIRST_NAME>SALIM</FIRST_NAME>
-      <SECOND_NAME>AHMAD</SECOND_NAME>
-      <THIRD_NAME>SALIM</THIRD_NAME>
-      <FOURTH_NAME>HAMDAN</FOURTH_NAME>
-      <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-      <REFERENCE_NUMBER>QDi.003</REFERENCE_NUMBER>
-      <LISTED_ON>2001-01-25</LISTED_ON>
-      <NAME_ORIGINAL_SCRIPT>سالم أحمد سالم حمدان</NAME_ORIGINAL_SCRIPT>
-      <COMMENTS1>Driver and private bodyguard to Usama bin Laden (deceased) from 1996
-until 2001. Transferred from United States custody to Yemen in Nov. 2008. Review
-pursuant to Security Council resolution 1822 (2008) was concluded on 8 Jul.
-2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 October 2023.</COMMENTS1>
-      <NATIONALITY>
-        <VALUE>Yemen</VALUE>
-      </NATIONALITY>
-      <LIST_TYPE>
-        <VALUE>UN List</VALUE>
-      </LIST_TYPE>
-      <LAST_DAY_UPDATED>
-        <VALUE>2019-12-06</VALUE>
-        <VALUE>2023-10-30</VALUE>
-      </LAST_DAY_UPDATED>
-      <INDIVIDUAL_ALIAS>
-        <QUALITY/>
-        <ALIAS_NAME/>
-      </INDIVIDUAL_ALIAS>
-      <INDIVIDUAL_ADDRESS>
-        <STREET>Shari Tunis</STREET>
-        <CITY>Sana'a</CITY>
-        <COUNTRY>Yemen</COUNTRY>
-        <NOTE>previous address</NOTE>
-      </INDIVIDUAL_ADDRESS>
-      <INDIVIDUAL_ADDRESS>
-        <NOTE>Located in Yemen since Nov. 2008</NOTE>
-      </INDIVIDUAL_ADDRESS>
-      <INDIVIDUAL_DATE_OF_BIRTH>
-        <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-        <YEAR>1965</YEAR>
-      </INDIVIDUAL_DATE_OF_BIRTH>
-      <INDIVIDUAL_PLACE_OF_BIRTH>
-        <CITY>Al-Mukalla </CITY>
-        <COUNTRY>Yemen</COUNTRY>
-      </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_PLACE_OF_BIRTH>
-        <CITY>AI-Mukala </CITY>
-        <COUNTRY>Yemen</COUNTRY>
-      </INDIVIDUAL_PLACE_OF_BIRTH>
-      <INDIVIDUAL_DOCUMENT>
-        <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-        <NUMBER>00385937</NUMBER>
-        <ISSUING_COUNTRY>Yemen</ISSUING_COUNTRY>
-      </INDIVIDUAL_DOCUMENT>
-      <SORT_KEY/>
-      <SORT_KEY_LAST_MOD/>
-    </INDIVIDUAL>
+
     <INDIVIDUAL>
       <DATAID>111923</DATAID>
       <VERSIONNUM>1</VERSIONNUM>
